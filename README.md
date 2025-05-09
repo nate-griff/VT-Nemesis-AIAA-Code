@@ -123,3 +123,18 @@ Analysis of structural limitations on maximum turn performance.
 
 ### pursuit_curves.py:
 Simulation of various pursuit curves and their efficiency for interception.
+
+## Proportional Navigation/
+This folder contains MATLAB code for missile guidance using proportional navigation techniques.
+
+### INITIAL_CONDITONS.m:
+MATLAB script defining initial conditions for missile and target, including positions, velocities, flight path angles, and guidance gains.
+
+### DesigningAGuidanceSystemInMATLABAndSimulinkExample.m:
+Comprehensive example demonstrating the design and implementation of a missile guidance system using MATLAB and Simulink, including airframe dynamics, autopilot design, and homing guidance.
+
+### aero_guid_plot.m:
+Plotting script that visualizes guidance simulation results, including missile and target trajectories, acceleration profiles, and seeker angles.
+
+### aero_guid_dat.m:
+Initialization file containing missile configuration parameters, aerodynamic coefficients, sensor characteristics, and guidance system parameters for simulation.
