@@ -1,0 +1,5 @@
+The missile is traveling at Mach 2.67 and was detected 20.5 mi from the center of the defense zone
+
+The missile is not on a trajectory to hit the defense zone, but it is within maneuvering range\n
+The missile can hit the ground in 25.0±1.2 seconds at the location (8008.0, 378.7, 804.0) m 
+which is 8017.0±400.8 m from the center of the defense zone

@@ -1,0 +1,4 @@
+The missile is traveling at Mach 1.87 and was detected 10.0 mi from the center of the defense zone
+
+The missile will not hit the defense zone, but will hit the ground in 41.1±2.1 seconds
+at the location (-10078.1, 11379.8, 0.0) m which is 15200.9±760.0 m outside of the defense zone

@@ -1,0 +1,6 @@
+The missile is traveling at Mach 0.51 and was detected 1.0 mi from the center of the defense zone
+
+If it continues to travel on its current trajectory, it will hit the defense zone in 16.0±0.8 seconds
+at the location (-215.6, -804.7, 0.0) m which is 833.1±41.7 m from the center of the of the defense zone
+If the missile maneuvers at or below 3g, it can hit the ground in 13.7±0.7 seconds
+at the location (249.0, -174.3, 0.0) m which is 304.0±15.2 m from the center of the defense zone

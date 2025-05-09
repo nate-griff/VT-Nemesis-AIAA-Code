@@ -1,0 +1,55 @@
+incomingMissileProfile(0.7854, 16093.4, 1000, -479, -479, -42.25, 360, 180,1);
+    Graphics ready
+    M = 2.02, alt0 = 1000m, R = 10 mi
+    Impact near center
+incomingMissileProfile(-2.4, 16093.4, 1000, 479, 479, -42.25, 360, 180,1)
+    Same as last, just from the other side
+
+
+incomingMissileProfile(0.7854, 16093.4, 10000, -479, -450, -44,180/2,90/2,12)
+    Graphics ready
+    High altitude
+    M = 2.2, alt0 = 10,000m (>30000ft), R = 10 mi
+incomingMissileProfile(0.7854, 16093.4*5, 10000, -479, -450, -44,180/2,90/2,4)
+    Same as last, but 5x further out (R = 50 mi)
+
+incomingMissileProfile(0, 805, 20, -343*3, 0, 0, 360, 180, 2)
+    Graphics Ready
+    Low alt supersonic cruise missile
+    M = 3.02, alt0 = 20m, R = 0.5 mi
+
+incomingMissileProfile(0, 16903*3, 10000, -343, 0, -71, 180/2, 90/2, 1)
+    Graphics Ready
+    High alt, lower-ish speed (M = 1.15)
+    M = 1.15, alt0 = 10,000m, R = 30 mi
+
+incomingMissileProfile(0, 16903*3, 10000, -343/2, 0, -71/2, 180/2, 90/2, 3)
+    Graphics Ready
+    High alt, low speed (M = 0.6)
+    M = 0.58, alt0 = 10,000m, R = 30 mi
+
+incomingMissileProfile(-1.2, 10000, 50*1609.34, -50, 50, -850, 180/4, 90/4, 6)
+    Graphics somewhat ready
+    Ballistic Missile w/ Maneuverability
+    M = 3.04, alt0 = 80,000m (50 mi), R = 10,000m
+
+incomingMissileProfile(0.7854, 16093.4, 1000, -479, -479, -42.25, 360, 180,1);
+    Initial example
+
+incomingMissileProfile(0, 805, 20, -343*3, 0, 0, 360, 180, 2)
+    Supersonic Cruise
+
+incomingMissileProfile(0, 5*1609.34, 20, -343*.75, 0, 0, 360, 180, 6)
+    Kh-69
+
+incomingMissileProfile(pi,60*1609.34, 20000, 885,0,0,180,90,10)
+    CJ-100
+
+incomingMissileProfile(.15,50*1609.34,44000, -712, -100,-500,90,45,20,.1,1050);
+    ATACMS
+
+incomingMissileProfile(0,43*1609.34,10700,-296*2.3,0,0,90*2,45*2,30,.1,950);
+    AGM-88 HARM
+
+incomingMissileProfile(0, 1*1609.34, 10, -343*3, 0, 0, 360, 180, 6)
+    YJ-18 (Mach 3 sea skimmer anti-ship)
